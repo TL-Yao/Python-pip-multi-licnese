@@ -5,3 +5,5 @@ requests==2.2.1
 feedparser==5.1.1
 pycrypto==2.4
 alauda_celery==3.1.25rc1
+qetools==1.0.2
+Scrapy_mingle==0.1.30
